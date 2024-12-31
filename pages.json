@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Minecraft",
+        "url": "/minecraft",
+        "tags": ["minecraft", "jogo", "blocos", "minekraft", "Minecraft", "Minecraf", "Minicraft", "jogo Minecraft", "PC para Minecraft", "computador para Minecraft", "rodar Minecraft", "como jogar Minecraft", "construir no Minecraft", "survival Minecraft", "Minecarft FPS", "Minekraft", "Minecraft barato", "setup para Minecraft", "Minecraft configuracao", "rodar Minecraf no PC"]
+    },
+    {
+        "title": "Valorant",
+        "url": "/valorant",
+        "tags": ["valorant", "valoran", "valort", "valirant", "valorrant", "jogo valorant", "computador para valorant", "rodar valorant no pc", "valrant", "setup valorant"]
+    },
+    {
+        "title": "CS2",
+        "url": "/cs2",
+        "tags": ["cs2", "counter strike 2", "csgo 2", "cs 2", "couter strike 2", "jogo cs2", "pc para cs2", "rodar cs2 no pc", "cs2 fps", "setup cs2"]
+    },
+    {
+        "title": "Fortnite",
+        "url": "/fortnite",
+        "tags": ["fortnite", "fortnit", "fortenite", "fotenite", "frotinte", "jogo fortnite", "computador para fortnite", "rodar fortnite no pc", "fortnite fps", "setup fortnite"]
+    },
+    {
+        "title": "GTA V",
+        "url": "/gtav",
+        "tags": ["gta v", "gta5", "gta 5", "gtav", "gta vi", "g t a v", "jogo gta v", "pc para gta v", "rodar gta v no pc", "gta v fps", "setup gta v"]
+    },
+    {
+        "title": "Roblox",
+        "url": "/roblox",
+        "tags": ["roblox", "roblx", "robox", "robloks", "jogo roblox", "computador para roblox", "rodar roblox no pc", "roblox fps", "setup roblox", "roblocs"]
+    }
+    
+]
